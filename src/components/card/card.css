@@ -14,3 +14,11 @@
     width: 250px;
     height: 200px;
 }
+
+.card-int{
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
